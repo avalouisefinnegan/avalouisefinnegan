@@ -4,15 +4,16 @@
 🔭 I’m currently working on my thesis in Differential Privacy
 
 🌱 I’m passionate about
-  **Machine Learning & Deep Learning** using CNNs, GANs, Reinenforcement Learning and other techniques.
+
+📍 **Machine Learning & Deep Learning** using CNNs, GANs, Reinenforcement Learning and other techniques.
   
-  **Computer Vision**. I am currently working on a Brain Tumour Segmentation Problem.
+📍 **Computer Vision**. I am currently working on a Brain Tumour Segmentation Problem.
   
-  **Big Data Computing**. I have experience with Apache Haddop for the storing & Processing of Big Data. 
+📍 **Big Data Computing**. I have experience with Apache Haddop for the storing & Processing of Big Data. 
   
-  **Optimisation Problems**. I find it fun to search for heauristic methods that can compete with exact medologies with improved time and space complexity. 
+📍 **Optimisation Problems**. I find it fun to search for heauristic methods that can compete with exact medologies with improved time and space complexity. 
   
-  **Data Privacy**. The focus of my thesis and a topic that I believe is extremely important with the advances in Genarative AI.  
+📍 **Data Privacy**. The focus of my thesis and a topic that I believe is extremely important with the advances in Genarative AI.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
