@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ava Finnegan</h1>
 <h3 align="center">A passionate Physics & Computer Science Student</h3>
 
-- 🔭 I’m currently working on my thesis in Differential Privacy
+🔭 I’m currently working on my thesis in Differential Privacy
 
-- 🌱 I’m passionate about
-- **Machine Learning & Deep Learning** using CNNs, GANs, Reinenforcement Learning and other techniques. 
-- **Computer Vision**. I am currently working on a Brain Tumour Segmentation Problem.
-- **Big Data Computing**. I 
-- **Optimisation Problems**.
-- **Data Privacy**. The focus of my thesis. 
+🌱 I’m passionate about
+  **Machine Learning & Deep Learning** using CNNs, GANs, Reinenforcement Learning and other techniques.
+  
+  **Computer Vision**. I am currently working on a Brain Tumour Segmentation Problem.
+  
+  **Big Data Computing**. I have experience with Apache Haddop for the storing & Processing of Big Data. 
+  
+  **Optimisation Problems**. I find it fun to search for heauristic methods that can compete with exact medologies with improved time and space complexity. 
+  
+  **Data Privacy**. The focus of my thesis and a topic that I believe is extremely important with the advances in Genarative AI.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
